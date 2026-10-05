@@ -5,7 +5,7 @@ Phần phân tích tối đa một trang, không tính output ở phần 5.
 
 **Họ tên / MSSV:** Lê Tuấn Anh / 2A202602952
 **Repo:** https://github.com/anhltsefpt/K4-Track02-Day17-LeTuanAnh-2A202602952-DataPipelineEngineering
-**Commit bài nộp:** `<hash>`
+**Commit bài nộp:** `6a688f3` (sửa lỗi: `3901aec`, `1070cd7`, `1daa472`)
 **AI đã dùng và phạm vi hỗ trợ (hoặc không dùng):** Claude Code (Claude Opus 5.5) — đọc code, chỉ ra vị trí 3 lỗi, đề xuất bản sửa và giải thích từng bước; soạn nháp REPORT. Tôi đã chạy lại mọi lệnh, đọc và hiểu từng dòng sửa.
 **Nguồn tham khảo khác (nếu có):** slide Ngày 17; tài liệu Debezium (định dạng change event), dbt docs (`merge`, `microbatch`).
 
